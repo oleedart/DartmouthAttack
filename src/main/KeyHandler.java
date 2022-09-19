@@ -1,3 +1,9 @@
+/**
+ * Author: Oscar Lee, September, 2022
+ * Most of the following code was taken from youtuber RyiSnow. Link to tutorial playlist here
+ * https://www.youtube.com/playlist?list=PL_QPQmz5C6WUF-pOQDsbsKbaBZqXj4qSq
+ */
+
 package main;
 
 import java.awt.event.KeyEvent;
